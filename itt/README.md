@@ -1,4 +1,4 @@
-# Hybrid Prompt Optimization for Text-to-Image Generation
+# Text-to-Image Generation
 
 A two-stage prompt optimization pipeline that improves the efficiency and quality of text-to-image generation by rewriting prompts for better compositional accuracy and aesthetic appeal.
 
